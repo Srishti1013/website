@@ -1,0 +1,250 @@
+#title
+{
+    /* background-color:#DFDFDE; */
+    background-image: url("jefferson-santos-fCEJGBzAkrU-unsplash.jpg");
+}
+.navbar
+{
+    padding-bottom: 15rem; 
+}
+.nav-item
+{
+    padding: 0 18px;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-lite', sans-serif;
+
+}
+
+
+.navbar-brand
+{
+    font-size: 2.5rem;
+}
+
+.big-heading
+{
+    padding-top: 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    /* line-height: 1.5; */
+    color: white;
+    text-align: center;
+}
+
+.container-fluid
+{
+    padding: 3% 10% 8%;
+}
+
+.download-button
+{
+    /* padding: 5%; */
+    margin: 5% 3% 5% 10%;
+}
+
+.feature-box
+{
+    text-align: center;
+    padding: 5%;
+}
+#features
+{
+    padding: 7% 15%;
+    background-color:#F7F5F2;
+    position: relative;
+    /* z-index: 1; */
+}
+.icon-color
+{
+    color:black;
+    margin-bottom: 1rem;
+}
+.icon-color:hover
+{
+    color:grey;
+}
+
+
+
+#download
+{
+    background-color: black;
+    padding: 7% 10%;
+}
+
+.download-text
+{
+    text-align: left;
+
+    color:gray;
+    padding-left: 10%;
+}
+
+
+
+
+
+
+
+
+#footer
+{
+    background-color: black;
+    padding: 7% 15%;
+    text-align: center;
+
+
+}
+
+.footer-text
+{
+    color:white;
+    padding: 5%;
+}
+.social-icon
+{
+    margin: 0 5% ;
+    color: white;
+
+}
+.social-icon:hover
+{
+    color:grey;
+}
+.special-heading
+{
+    font-size: 3rem;
+    padding-bottom: 5%;
+}
+
+
+#testimonials
+{
+    text-align: center;
+    background-color: #F7F5F2;
+    color: black;
+    
+}
+
+
+.testimonial-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: black;
+    border-radius: 60%;
+}
+
+
+.carousel-item
+{
+    padding: 7% 15%;
+
+}
+
+
+
+
+
+#instrument
+ {
+    text-align: center;
+    background-color: black;
+  }
+  
+  
+  
+  .w {
+    background-image: url("tom1.png");
+  
+  }
+  
+  .a {
+    background-image: url("tom2.png ");
+  
+  
+  }
+  
+  .s {
+    background-image: url("tom3.png");
+  
+  
+  }
+  
+  .d {
+    background-image: url("tom4.png");
+  
+  
+  }
+  
+  .j {
+    background-image: url("crash.png");
+  
+  
+  }
+  
+  .k {
+    background-image: url("snare.png");
+  
+  
+  }
+  
+  .l {
+    background-image: url("kick.png");
+  
+  
+  }
+  
+  .set {
+    padding: 3% 4%;
+  }
+  
+  
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  
+  
+  .drum {
+    outline: none;
+    border: 10px solid white;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #F2FA5A;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
